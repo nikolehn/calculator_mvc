@@ -1,0 +1,22 @@
+# Ignores as defined by GitHub
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# Additional auto-generated
+nbproject/build-impl.xml
+nbproject/rest-build.xml
+nbproject/genfiles.properties
+
+# Class Files
+*.class
+
+# Package Files
+*.jar
+*.war
+*.ear
+
